@@ -28,19 +28,19 @@ Android Studio is used for the development of this app. Java based Object Orient
 User will get coins based on the level of difficulty of the task. Challenges of a certain category will be unlocked after a day of completion of the previous challenge. Record of completed challenges and tasks will be stored in a database.
 
 ## How To Run Project:
-1)Visit https://developer.android.com/studio?gclid=CjwKCAjww-CGBhALEiwAQzWxOm1PBsxX50mQqdQTqsxKUS40DW0FghZEr29K5kkHShBVMkwM3xs0XhoC3akQAvD_BwE&gclsrc=aw.ds to install the AndroidStudio
+1) Visit https://developer.android.com/studio?gclid=CjwKCAjww-CGBhALEiwAQzWxOm1PBsxX50mQqdQTqsxKUS40DW0FghZEr29K5kkHShBVMkwM3xs0XhoC3akQAvD_BwE&gclsrc=aw.ds to install the AndroidStudio
 
-2)Wait for the installation of the Studio
+2) Wait for the installation of the Studio
 
-3)After successful installation, paste the given GoalsVault Folder in the Android Studios Projects.
+3) After successful installation, paste the given GoalsVault Folder in the Android Studios Projects.
 
-4)Open the Project.
+4) Open the Project.
 
-5)You can either connect device physically, through a USB cable and enable USB debugging (in Developer Options) on your phone to Install the project or Run emulator to test the project
+5) You can either connect device physically, through a USB cable and enable USB debugging (in Developer Options) on your phone to Install the project or Run emulator to test the project
 
-6)To access Java Files go to C:\xyz\xyz\AndroidStudioProjects\GoalsVault\app\src\main\java\com\example directory to access Java Files
+6) To access Java Files go to C:\xyz\xyz\AndroidStudioProjects\GoalsVault\app\src\main\java\com\example directory to access Java Files
 
-7)To access XML Files go to C:\xyz\xyz\AndroidStudioProjects\GoalsVault\app\src\main\res directory to access
+7) To access XML Files go to C:\xyz\xyz\AndroidStudioProjects\GoalsVault\app\src\main\res directory to access
 
 ## Screenshots:
    ![](https://user-images.githubusercontent.com/76608263/148930720-3f4cce75-0303-40ab-9743-1869493e77a6.png)
@@ -52,3 +52,4 @@ User will get coins based on the level of difficulty of the task. Challenges of 
 ![](https://user-images.githubusercontent.com/76608263/148930517-ace9ad72-af08-41f1-a977-4a53191e4aa7.png)
 
 ![](https://user-images.githubusercontent.com/76608263/148931674-e169332a-82cc-4eec-a479-727ff7705441.png)
+# Happy Productivity!!
