@@ -43,12 +43,13 @@ User will get coins based on the level of difficulty of the task. Challenges of 
 7) To access XML Files go to C:\xyz\xyz\AndroidStudioProjects\GoalsVault\app\src\main\res directory to access
 
 ## Screenshots:
+### Home Page
    ![](https://user-images.githubusercontent.com/76608263/148930720-3f4cce75-0303-40ab-9743-1869493e77a6.png)
-
+### To Do Lists
 ![](https://user-images.githubusercontent.com/76608263/148929225-8408d292-799b-41d5-adca-ec17729ab737.png)
-
+### Daily Challenges
 ![](https://user-images.githubusercontent.com/76608263/148930677-80d0c864-9773-4a36-b18e-e441d82ce3a6.png)
-
+### Survival Game
 ![](https://user-images.githubusercontent.com/76608263/148930517-ace9ad72-af08-41f1-a977-4a53191e4aa7.png)
 
 ![](https://user-images.githubusercontent.com/76608263/148931674-e169332a-82cc-4eec-a479-727ff7705441.png)
