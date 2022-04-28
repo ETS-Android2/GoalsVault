@@ -1,4 +1,4 @@
-GoalsVault
+###GoalsVault
 
 An android application which helps user build up habits, achieve their goals and increase their productivity; all with a flare of fun. The project majorly falls under the domain of Android App Development. It is aimed to be a task-management and productivity app developed using Android Studio. Featuring Daily Challenges, To-Do Lists and much more, GoalsVault makes productivity fun.
 
